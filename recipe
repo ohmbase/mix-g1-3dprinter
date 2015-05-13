@@ -1,0 +1,41 @@
+(*) Printed Part
+(**) Laser cut (can be replaced by Printed Parts)
+
+6     300 M8 Thread Rod
+8     LM8UU Linear Bearing
+18    M8 Nut
+16    M8 Wahser
+2    Base Part 1 (*)
+2    Base Part 2 (*)
+4    ser Cut footer (**) (version 1) note: It's replaced by "Base" in version 2
+1    Power plug
+1    Power switch
+2    M3x16
+37    M3 Nut
+74    M3 Washer
+5    NEMA 17
+8    M3x10
+6    M3x20
+2    623 Ball Bearing
+3    M3x6
+2    Pulley (*)
+4    M3x40
+2    285mm Smooth Bar for Y-Axis
+4    Plate Base Connector (*)
+1    MDF Laser cut base (**)
+1    400mm T5 Belt
+6    Belt Clamp - Laser Cut (**) [Can be Printed Part "Belt Clamp(*)"]
+20    M3x25
+4    X Holder(**)
+4    Z-Holders (*)
+2    608 Ball Bearing
+2    Z-Top (*)
+2    390mm Smooth Bar
+1    Assembly Extruder (Check Mix G1 extruder Assembly Video)
+1    M4x30
+2    M4 Fender Washer
+3    M4 Washer
+1    M4 Nut
+1    X Motor Holder 2 (*)
+1    X Motor Holder 1 (*)
+1    800mm T5 Belt
